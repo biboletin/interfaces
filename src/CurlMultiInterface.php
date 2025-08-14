@@ -2,6 +2,8 @@
 
 namespace Bibo\Core\Interfaces;
 
+use Biboletin\Interfaces\CurlInterface;
+
 /**
  * CurlMultiInterface
  *
